@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo
-link[]
+[link](https://harshadatta009.github.io/React-Weather-App).
 
 ## Available Scripts
 
